@@ -1,0 +1,24 @@
+{
+  "name": "guess-mind",
+  "version": "1.0.0",
+  "description": "clone catch mind with socket nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Realhyeonwoo/guessMind.git"
+  },
+  "author": "hyeonwoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Realhyeonwoo/guessMind/issues"
+  },
+  "homepage": "https://github.com/Realhyeonwoo/guessMind#readme",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/preset-env": "^7.4.5"
+  }
+}
